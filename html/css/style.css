@@ -6,16 +6,17 @@
 }
 
 body{
-  background-color:#aae;
+  background-color:#aaa;
+  margin:0px;
 }
 
-.tar{
-  text-align:right;
+.fav{
+  margin:1em;
 }
 
 .main{
   font-family: 'mikachan';
-  margin-top:1em;
+  margin:1em;
   box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
   background-color:#ddb;
   padding:1em;
@@ -34,9 +35,13 @@ body{
 }
 
 h1{
+  background-color:#666;
+  color:#ddd;
   margin:0px;
+  text-align:center;
 }
 .desc{
+  text-align:center;
 }
 
 .footer{
