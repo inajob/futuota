@@ -1,0 +1,64 @@
+/* style sheet */
+
+@font-face {
+  font-family: 'mikachan';
+  src: url('mikachan.ttf') format('truetype');
+}
+
+body{
+  background-color:#aae;
+}
+
+.tar{
+  text-align:right;
+}
+
+.main{
+  font-family: 'mikachan';
+  margin-top:1em;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+  background-color:#ddb;
+  padding:1em;
+}
+
+.controller{
+  padding:1em;
+  margin-top:1em;
+}
+.box{
+  text-align:center;
+  padding:1em;
+  background-color:#55ACEE;
+  color:white;
+  width:8em;
+}
+
+h1{
+  margin:0px;
+}
+.desc{
+}
+
+.footer{
+  font-size:0.7em;
+  background-color:#ccf;
+  color:#666;
+  margin:1em;
+  padding:1em;
+}
+.footer a{
+  color:#666;
+}
+
+
+.line{
+  padding:0px;
+  margin:0px;
+  line-height:1.5em;
+}
+.line .l{
+  padding-left:10px;
+  border:dotted 1px;
+  border-width:0px 0px 1px 0px;
+}
+
