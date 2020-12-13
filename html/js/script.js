@@ -199,7 +199,7 @@ $(function(){
   choice([f1,f2,f3])();
  
 
-  mkTwit(lines.concat(""));
+  mkTwit(lines.join("\n"));
 
 
   var h = "";
