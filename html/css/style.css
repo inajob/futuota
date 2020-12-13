@@ -18,7 +18,7 @@ body{
   font-family: 'mikachan';
   margin:1em;
   box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
-  background-color:#ddb;
+  background-color:#eeb;
   padding:1em;
 }
 
@@ -31,7 +31,7 @@ body{
   padding:1em;
   background-color:#55ACEE;
   color:white;
-  width:8em;
+  width:10em;
 }
 
 h1{
